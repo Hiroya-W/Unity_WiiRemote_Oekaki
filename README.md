@@ -1,2 +1,4 @@
-# Unity_WiiRemote_Oekaki
-UnityでWiiリモコンを使ったお絵かきアプリ
+# 創造工学
+## UnityでWiiリモコンを使ったお絵かきアプリ
+
+いずれまとめる

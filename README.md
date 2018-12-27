@@ -1,4 +1,5 @@
-# 創造工学「魔法のステッキWiiリモコン」~UnityでWiiリモコンを使ったお絵かきアプリ~
+# 創造工学「魔法のステッキWiiリモコン」
+## ~ UnityでWiiリモコンを使ったお絵かきアプリ ~
 ## 開発スケジュール
 2018/4/10 ~ 2018/7/24  
 発表日 2018/7/24
@@ -51,3 +52,14 @@
 
 これには驚いた。同じソースコードで出来ちゃうんですね。  
 Androidや、iPadなどのタブレット端末用に遊べる機能を追加 + ビルド すれば色んな人に遊んでもらえるようなものになるかも。 
+
+## スクリーンショット
+![](https://github.com/Hiroya-W/Unity_WiiRemote_Oekaki/blob/imgs/SnapCrab_2018-12-27_14-26-6.png)
+![](https://github.com/Hiroya-W/Unity_WiiRemote_Oekaki/blob/imgs/SnapCrab_2018-12-27_14-26-7.png)
+![](https://github.com/Hiroya-W/Unity_WiiRemote_Oekaki/blob/imgs/SnapCrab_2018-12-27_14-26-8.png)
+![](https://github.com/Hiroya-W/Unity_WiiRemote_Oekaki/blob/imgs/SnapCrab_2018-12-27_14-26-9.png)
+![](https://github.com/Hiroya-W/Unity_WiiRemote_Oekaki/blob/imgs/SnapCrab_2018-12-27_14-26-10.png)
+![](https://github.com/Hiroya-W/Unity_WiiRemote_Oekaki/blob/imgs/SnapCrab_2018-12-27_14-26-11.png)
+![](https://github.com/Hiroya-W/Unity_WiiRemote_Oekaki/blob/imgs/SnapCrab_2018-12-27_14-26-12.png)
+![](https://github.com/Hiroya-W/Unity_WiiRemote_Oekaki/blob/imgs/SnapCrab_2018-12-27_14-26-13.png)
+![](https://github.com/Hiroya-W/Unity_WiiRemote_Oekaki/blob/imgs/SnapCrab_2018-12-27_14-26-14.png)
